@@ -2,9 +2,6 @@
 echo "build this gitbook...."
 gitbook build
 echo "create and checkout new branch gh-pages...."
-git branch -d gh-pages
-git branch gh-pages
-git checkout gh-pages
 echo "清理文件...."
 echo "_book" > .gitignore
 git rm --cached -r .
