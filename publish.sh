@@ -18,5 +18,5 @@ git add -A
 git commit -am "publish this book"
 git push origin -u  gh-pages
 echo "finished!!!"
-
+git checkout master
 
