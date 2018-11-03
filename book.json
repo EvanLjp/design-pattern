@@ -1,6 +1,6 @@
 {
-  "title": "",
-  "description": "",
+  "title": "设计模式",
+  "description": "设计模式学习中的总结,主要语言是Java",
   "author": "Evan",
   "language": "zh-hans",
   "gitbook": "3.2.3",
@@ -45,7 +45,7 @@
       "buttons": [
         {
           "user": "evanljp",
-          "repo": "",
+          "repo": "design-pattern",
           "type": "star",
           "count": true,
           "size": "small"
@@ -71,7 +71,7 @@
       ]
     },
     "tbfed-pagefooter": {
-      "copyright": "evanljp.ink，使用<a href='https://creativecommons.org/licenses/by-sa/4.0/deed.zh'>知识署名-相同方式共享4.0协议</a>发布",
+      "copyright": "<a href='https://github.com/evanljp'>Evan</a>",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
@@ -84,7 +84,7 @@
       "wechatText": "微信打赏给evan"
     },
     "sitemap-general": {
-      "prefix": "http://www.evanljp.ink/"
+      "prefix": "http://www.evanljp.ink/design-pattern"
     }
   }
 }
