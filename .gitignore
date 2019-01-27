@@ -3,4 +3,3 @@ _book
 node_modules
 /.idea/
 *.iml
-/code/target/

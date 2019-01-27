@@ -3,5 +3,5 @@ gitbook build
 echo "上传中....."
 git add -A
 git commit -am "提交新版本"
-git push -u origin master
+git push -u origin HEAD
 echo "|||||||||||||||FINISHED|||||||||||||||||||"
