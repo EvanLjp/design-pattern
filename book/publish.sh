@@ -5,6 +5,11 @@ echo "create and checkout new branch gh-pages...."
 echo "清理文件...."
 git branch -D gh-pages
 git checkout -b gh-pages
+cd ..
+rm -rf code
+rm -rf image
+cp -r ./book/* .
+rm -rf book
 git rm --cached -r .
 git clean -df
 echo "create .gitignore...."
